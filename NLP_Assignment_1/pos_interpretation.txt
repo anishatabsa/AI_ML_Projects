@@ -1,0 +1,14 @@
+LINGUISTIC PATTERN INTERPRETATION
+================================================================================
+
+1. ADJECTIVE-NOUN (JJ-NN): 23,804 occurrences
+   Examples: medicine start, 5th day, chronic pain, appetite suppressant, old female
+
+2. VERB-OBJECT (VBD-NN): 1,942 occurrences
+   Examples: had neck, had stage, had side, had psoriasis, prescribed methadone
+
+3. PRONOUN-VERB (PRP-VBD): 24,811 occurrences
+   Examples: I started, I had, I sweated, I felt, I was
+
+Total Bigram Patterns: 1,302
+Total Trigram Patterns: 16,772
