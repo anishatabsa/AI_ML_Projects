@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "description": "Median calculation function",
+    "prompt": "def calculate_median(numbers):",
+    "generated": "def calculate_median(numbers):\n    \"\"\"\n    Computes an an sequence of each in the string in the given\n    \"\"\"\n    if len(min):\n        return [2] for i in range(num), in range(idx) and i]"
+  },
+  {
+    "id": 2,
+    "description": "Fibonacci sequence generator",
+    "prompt": "def fibonacci(n):\n    \"\"\"Return the nth Fibonacci number.\"\"\"",
+    "generated": "def fibonacci(n):\n    \"\"\"Return the nth Fibonacci number.\"\"\"\n    if c == 0:\n        return np.zeros(v.float(d)\n        return m.array(x, t)"
+  },
+  {
+    "id": 3,
+    "description": "Binary search implementation",
+    "prompt": "def binary_search(arr, target):\n    \"\"\"Search for target in sorted array arr.\"\"\"",
+    "generated": "def binary_search(arr, target):\n    \"\"\"Search for target in sorted array arr.\"\"\"\n    if not in (''], 'w', 'utf-8'):\n        return [c.replace('.', '', '0', '='utf--8', '8', '00', '2', '4' + 'x', ' 'r', '2')\n    # Dc-8-8-1, y-8\n    # pylint: 'h' (0, '1', '2')\n    # -- (0-8-8, '22' (b2', 'bcc', 'h1', '0', ' '1', 'string')\n    # TODO:\n    if len(value, 0):\n        raise ValueError(a)\n    if '0' not isinstance(0, '3') == '0' and 'x' in str(h, 'x1'):\n        return ['', 'a': 1, 'r')"
+  },
+  {
+    "id": 4,
+    "description": "File reader with error handling",
+    "prompt": "def read_file(filepath):\n    \"\"\"Read and return the contents of a file.\"\"\"",
+    "generated": "def read_file(filepath):\n    \"\"\"Read and return the contents of a file.\"\"\"\n    if isinstance(dir, file_path.exists(path, path, unicode):\n        return\n    if os.path.path.path.path.path.path.path.path(path, line, filename):\n        if path.path.join(path, filename) and open(path.path.path.path.path.path.path, path.path.path.pathpath.pathpath.path.join(path))\n    else:\n        raise ValueError(path_dir))\n    if os.path.path.exists(path.path.path.path.path.pathpath.path.isfile(path, os.path.path.path.path.pathpath.joinjoin(os.filepath.path))\n    return os.path.join(path)"
+  },
+  {
+    "id": 5,
+    "description": "Dictionary merge function",
+    "prompt": "def merge_dicts(dict1, dict2):",
+    "generated": "def merge_dicts(dict1, dict2):\n    \"\"\"Get a string representation from the file.\n\n    Parameters\n    ----------\n    file_ : dict\n        The file to the file\n        dict of list of the file to the filename.\n    Returns\n    -------\n    config :class:`d`.\n    Returns\n    -------\n        file : string\n        The list of the file path of the file.\n    \"\"\"\n    if path.startswith(\"utf-8.0_01.0'):\n        for p in data[1].startswith('8-88')):\n            if not isinstance(t) > len(p) > 2:\n                if len(2, '3', '5') != '1' in range(1):\n                        raise ValueError('utf-88')\n    else:\n                    elif not isinstance(data=str):\n                    elif (i, (1), (str):\n                        raise ValueError('D is is not"
+  },
+  {
+    "id": 6,
+    "description": "String palindrome checker",
+    "prompt": "def is_palindrome(s):\n    \"\"\"Check if string s is a palindrome.\"\"\"",
+    "generated": "def is_palindrome(s):\n    \"\"\"Check if string s is a palindrome.\"\"\"\n    m = 'a/v3//6/0/4/2/1/85/5/0-9-6/2/3/34/53/2.0/3/12/1\n    return r.a_v1.952(a-5, 1, 2)"
+  }
+]

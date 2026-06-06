@@ -1,0 +1,18 @@
+{
+  "vocab_size": 8000,
+  "special_tokens": [
+    "<|pad|>",
+    "<|unk|>",
+    "<|bos|>",
+    "<|eos|>",
+    "<|indent|>"
+  ],
+  "pad_id": 0,
+  "unk_id": 1,
+  "bos_id": 2,
+  "eos_id": 3,
+  "training_corpus": "tokenizer/train_corpus.txt",
+  "min_frequency": 2,
+  "model_type": "BPE",
+  "pre_tokenizer": "ByteLevel"
+}
