@@ -1,5 +1,16 @@
 # CodeGen-Style Decoder-Only Transformer — Submission
 
+## Contributors
+
+| ID                                | Name                               | PERCENTAGE |
+|-----------------------------------|------------------------------------|------------|
+| `2024ad05344`       | ANISH RADHAKRISHNAN SHOBHA KAITHASSERY | 100%       |
+| `2024ad05350`             | DEEPTHY.A.N.                       | 100%       |
+| `2024ad05323`        | MUSUNURI UMA MAHESWARA RAO         | 100%       |
+| `2024ad05351`            | THERE SUKANYA                      | 100%       |
+            |
+
+
 ## Contents
 
 | File | Description |
